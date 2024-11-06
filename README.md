@@ -4,8 +4,8 @@
 
 <br>
 
-- 🔭 I'm currently working on SGRC</p>
-- 🌱 I'm currently learning PHP, C# and TypeScript</p>
+- 🔭 I'm currently working in Aricie Conseil</p>
+- 🌱 I'm currently learning .NET and React</p>
 - 🤖 All of my projects are available on <a href="https://portfolio-killyan.vercel.app/">my portfolio</a></p>
 
 <br>
